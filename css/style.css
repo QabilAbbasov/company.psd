@@ -1,0 +1,360 @@
+.header{
+    text-align: center;
+    padding: 30px;
+    background-color:#fff;
+}
+#logo h1{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #d67645;
+}
+#navbar nav{
+    background-color: #898d8e;
+    padding: 30px;
+}
+#navbar ul{
+    text-align: center;
+    
+    margin: 0 auto;
+}
+#navbar ul li{
+    background-color: #898d8e;
+    padding: 30px;
+}
+#navbar ul a{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+#navbar ul li:hover{
+    background-color:#688e9c ;
+}
+.bg{
+    background: url("../img/photo-1.png") center/cover;
+    height: 73vh;
+}
+#img{
+    text-align: center;
+    padding-top: 50%;
+}
+#img h1{
+    font-size: 30px;
+    width: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    margin: 0 auto;
+    color: #fff;
+}
+#img h2{
+    padding-top: 20px;
+    font-size: 25px;
+    width: 100%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    color: #d67645;
+}
+.section{
+    text-align: center;
+    padding: 30px;
+    padding-top: 90px;
+}
+#header h1{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #af5629;
+}
+#head{
+    padding-top: 15px;
+    border-bottom: 2px solid #af5629;
+    width: 60%;
+    margin: 0 auto;
+}
+#header p{
+    padding-top: 40px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #af5629;
+    width: 100%;
+    margin: 0 auto;
+    line-height: 23px;
+}
+#selection{
+    padding-top: 40px;
+}
+#src{
+    padding-top: 40px;
+}
+#src img{
+    width: 90%;
+}
+#src h1{
+    padding-top: 20px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: rgb(66, 66, 66);
+}
+#src p{
+    padding-top:25px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:70%;
+    margin: 0 auto;
+    color: rgb(66, 66, 66);
+}
+.section-1{
+    text-align: center;
+    margin-top: 90px;
+    background-color: #1f3138;
+    padding: 30px;
+}
+#header-1{
+    width: 50%;
+    margin: 0 auto;
+}
+#src-1{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    width: 70%;
+    margin: 0 auto;
+   margin-top: 30px;
+}
+#src-1 h1{
+    font-size: 70px;
+    font-weight: 600;
+    color: #683922;
+}
+#src-1 h2{
+    font-size: 60px;
+    font-weight: 600;
+    color: #683922;
+}
+#head-1 p{
+    padding-top: 7px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 550;
+    color: #fff;
+    width: 100%;
+}
+.bg-1{
+    background: url("../img/photo-2.png") center/cover;
+    height: 73vh;
+}
+.section-2{
+    text-align: center;
+    background-color: #2a3e47;
+    padding: 30px;
+}
+#header-2{
+    padding-top: 60px;
+}
+#header-2 h1{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    margin: 0 auto;
+    width: 100%;
+}
+#header-2 p{
+    padding-top: 25px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    width: 80%;
+    margin: 0 auto;
+    line-height: 25px;
+}
+#src-2{
+    padding-top: 50px;
+}
+#input{
+    padding-top: 30px;
+}
+#input input{
+    padding: 5px 0px;
+    width: 25%;
+    border: 0;
+    outline: none;
+    background-color: #1f313800;
+    border-bottom: 2px solid grey;
+}
+#input select{
+    margin-left: 15px;
+    padding: 4px 0px;
+    width: 23%;
+    outline: none;
+    border: 0;
+    background-color: #1f313800;
+    border-bottom: 2px solid grey;
+    color: grey;
+}
+#input-1 input{
+    padding: 5px 0px;
+    width: 49%; 
+    border: 0;
+    outline: none;
+    background-color: #1f313800;
+    padding-top: 40px;
+    margin: 0 auto;
+    border-bottom: 2px solid grey;
+}
+#input-2 input{
+    padding: 60px 0px;
+    width: 49%; 
+    border: 0;
+    outline: none;
+    background-color: #1f313800;
+    padding-top: 40px;
+    margin: 0 auto;
+    border-bottom: 2px solid grey;
+}
+#button{
+    padding-top: 30px;
+}
+#button button{
+    padding: 10px 20px;
+    outline: none;
+    border: 0;
+    background-color: #89553b;
+    color: #fff;
+    transition: .5s;
+}
+#button button:hover{
+    background-color:#411f0f ;
+}
+.section-3{
+    text-align: center;
+    padding-top: 70px;
+}
+#header-3 h1{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #9b5533;
+    width: 100%;
+}
+#header-3 p{
+    padding-top: 30px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(95, 94, 94);
+    width: 78%;
+    margin: 0 auto;
+    line-height: 25px;
+}
+#head-3{
+    text-align: center;
+    padding-top: 90px;
+}
+#src-3{
+    padding-top: 40px;
+}
+#src-3 img{
+    width: 80%;
+}
+.footer{
+    background-color: #1f3138;
+    padding: 20px;
+    text-align: center;
+}
+#selection-2{
+    padding-top: 20px;
+}
+#path{
+    padding-top: 30px;
+}
+#path h1{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+#text{
+    padding-top: 15px;
+}
+#text p{
+    padding-top: 10px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+
+
+
+
+
+@media only screen and (min-width: 768px){
+
+
+    .header{
+        text-align: start;
+    }
+    #navbar nav{
+        padding:0px;
+    }
+    #navbar ul{
+        display: flex;
+    justify-content: space-around;
+    width: 62%;
+    margin-left: 50px;
+    }
+    #img{
+        padding-top: 10%;
+    }
+    #head{
+        width: 13%;
+    }
+    #header p{
+        width: 600px;
+    }
+    #selection{
+        display:flex;
+        justify-content: space-evenly;
+    }
+    #header-1{
+        display: flex;
+        justify-content: space-evenly;
+        width: 80%;
+    }
+    #src-1{
+        margin-top: 10px;
+    }
+    #header-2 p{
+        width: 40%;
+    }
+    #header-3 p{
+        width: 45%;
+    }
+    #head-3{
+        display: flex;
+    }
+    #src-3{
+        padding-top:0px;
+    }
+    #src-3 img{
+        width: 100%;
+    }
+    #selection-2{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    #path{
+        padding-top:0px;
+    }
+
+
+
+
+
+
+
+
+
+
+}
+
